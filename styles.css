@@ -1,0 +1,108 @@
+.navbar ul{
+   list-style-type: none;
+    display: flex;
+    margin-top: 2%;
+    /* margin-left: 20%; */
+    }
+.navbar ul li{
+    list-style: none;
+    margin-left: 15%;
+    font-size: 1.1rem;
+       
+}
+.home{
+        /* margin-top: 30%; */
+    margin-right:5% ;
+    color: aliceblue;
+    /* display: flex; */
+      
+}
+.girlphoto img{
+    height: 600px;
+    width: 700px;
+    margin-right: 5%;
+}
+.landingpage{
+    background-color: rgb(147, 126, 167);
+    height: 600px;
+    display: flex;
+    background-repeat: no-repeat;
+    width: 100vw;
+    background-size: cover;
+        
+ }
+ .weeklyselection{
+    display: flex;
+    text-align: center;
+ }
+.header{
+     text-align: center;
+     margin-top: 2%;
+ }
+ .Photos{
+    display: flex;
+ }
+
+button{
+    margin-left: 40%;
+    margin-bottom: 5%;
+    background-color: palevioletred;
+    color: antiquewhite;
+    border: none;
+}
+.Photo {
+    height: 400px;
+    margin-left: 10%;
+   justify-content: space-around;
+}
+.dressess{
+    margin-left: 5%;
+}
+.live{
+    width: 500px;
+    height: 300px;
+   
+    
+    
+}
+.athlet{
+   
+    margin-top: -40%;
+    margin-left: 3%;
+    color: antiquewhite;
+}
+.shoes{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 8%;
+}
+.runner{
+    height: 435px;
+}
+
+
+ .footer{
+    margin-left: 2%;
+    font-size: 0.5 rem;
+    display: grid;
+    grid-template-columns:  repeat(4, 1fr);
+}
+.footer ul li{
+    list-style: none;
+}
+.foot{
+   
+}
+/* buttons */
+/* .btn3{
+    background-color: palevioletred;
+    color: antiquewhite;
+    border: none;
+    padding: 8px 5px 8px 5px;
+}
+.btn4{
+    background-color: palevioletred;
+    color: antiquewhite;
+    border: none;
+    
+} */
